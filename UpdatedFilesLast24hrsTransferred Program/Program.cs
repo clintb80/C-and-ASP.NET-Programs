@@ -8,8 +8,7 @@ using System.IO;
 
 namespace Drill46
 {
-    class Program //this is a test
-    {
+    class Program 
         static void Main(string[] args)
         {
             loopforfiles();
